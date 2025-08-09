@@ -4,7 +4,7 @@
 ptint('Python is the best')
 ```
 
-git branch => mavjud barcha branchlarni ko'rsatadi
+git branch => mavjud barcha branchlarni ko'rsatadi/n
 git branch branch_name => yangi branch yaratadi
 git checkout/switch branch_name => mavjud bo'lgan branchga ko'chadi
 git log => brachga tegishli barcha commit malumotlarni ko'rsatadi
